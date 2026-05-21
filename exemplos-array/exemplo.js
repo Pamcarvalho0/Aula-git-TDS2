@@ -45,4 +45,6 @@ console.log(cidades);
 
 //Mostrando todos os elementos do array com for
 let fruta = ["maçã", 'banana', "laranja", "uva"];
-for (let i = 0; i <- );
+for (let i = 0; i < frutas.length; i++) {
+    console.log(frutas[i]);
+}
