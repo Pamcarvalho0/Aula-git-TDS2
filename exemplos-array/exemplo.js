@@ -42,3 +42,7 @@ console.log(países)
 let cidades = ["São Paulo", "Rio de Janeiro", "Belo Horizonte", "Curitiba"];
 cidades.shift();
 console.log(cidades);
+
+//Mostrando todos os elementos do array com for
+let fruta = ["maçã", 'banana', "laranja", "uva"];
+for (let i = 0; i <- );
